@@ -8,6 +8,7 @@ namespace GitTestApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I am testing git");
+            Console.WriteLine("I am testing it via another editor");
         }
     }
 }
